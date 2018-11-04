@@ -1,6 +1,6 @@
 {
     "myDRIVER": "Albert",
     "myHOST": "http://10.1.2.23:8000",
-    "mySSID": "ap-lab",
-    "myPASSWORD": "Mireia@123"
+    "mySSID": "",
+    "myPASSWORD": ""
 }
